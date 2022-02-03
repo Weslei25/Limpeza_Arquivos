@@ -1,0 +1,16 @@
+[
+    {
+        "teste": "C:\\Poject\\Exclui_Aquivos\\functions\\__pycache__",
+        "caminho_log_ims": "C:\\AUTO_FILES_SELLOUT\\ENVIO_FILES_IMS\\Logs",
+        "caminho_backup_ims": "C:\\AUTO_FILES_SELLOUT\\ENVIO_FILES_IMS\\BACKUP",
+        "inicia_pocesos": "pythonw C:\\AUTO_FILES_SELLOUT\\ENVIO_FILES_IMS\\app.pyw",
+        "caminho_log_mdlz": "C:\\SevicoMondelez\\SevicoMondelez\\logs",
+        "caminho_backup_mondelez": "C:\\AUTO_FILES_SELLOUT\\ENVIO_FILES_IMS\\BACKUP"
+    },
+    {
+        "servicos": ["LimpezaDeArquivosSellout_","EnviosDeArquivosIMS","EnviosDeArquivosMondelez"]
+    },
+    {
+        "dia_de_excluir_arquivos":"03"
+    }
+]
